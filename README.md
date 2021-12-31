@@ -4,7 +4,7 @@
 
 * :robot: Robotics Software
 * :red_car: Autonomous Driving
-* :cartwheeling: Complex Human Motion
+* :cartwheeling: Complex Motion
 * :man_health_worker: Medical AI
 * :sailboat: Autonomous Sailing
 * :eye: Computer Vision
