@@ -20,11 +20,12 @@
 
 ## GitHub Stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerlum&count_private=true)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerlum&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlum&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [Source](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **tylerlum/tylerlum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
