@@ -20,6 +20,11 @@
 
 ## GitHub Stats
 
+<!-- Deploy Myself: https://github.com/anuraghazra/github-readme-stats -->
+![Tyler's GitHub stats](./profile/stats.svg)
+
+![Top Langs](./profile/top-langs.svg)
+
 <!-- Public one is unreliable: https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerlum&show_icons=true) -->
 
