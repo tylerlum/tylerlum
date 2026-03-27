@@ -20,9 +20,10 @@
 
 ## GitHub Stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerlum&show_icons=true)
+<!-- Public one is unreliable: https://github.com/anuraghazra/github-readme-stats -->
+<!-- ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerlum&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlum&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlum&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [Source](https://github.com/anuraghazra/github-readme-stats)
 
