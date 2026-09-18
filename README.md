@@ -2,6 +2,7 @@
 
 ## Research Interests
 
+* :robot: Robot Learning
 * :raised_hand: Dexterous Manipulation
 * :chart_with_upwards_trend: Reinforcement Learning
 * :bricks: Simulation and Sim-to-Real
