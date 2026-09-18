@@ -5,7 +5,8 @@
 * :robot: Robot Learning
 * :raised_hand: Dexterous Manipulation
 * :chart_with_upwards_trend: Reinforcement Learning
-* :bricks: Simulation and Sim-to-Real
+* :video_game: Simulation and Sim-to-Real
+* :walking: Human Videos
 * :hammer_and_wrench: Tool Use
 * :eye: Computer Vision
 * :man_health_worker: Medical AI
