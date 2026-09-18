@@ -5,6 +5,10 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+# github-readme-stats queries user-level aggregates (stars and commits across the
+# whole account). secrets.GITHUB_TOKEN is scoped to this repository and cannot read
+# those, so the action returned "Resource not accessible by integration" and wrote an
+# error card while still exiting 0. GH_STATS_TOKEN is a PAT with read:user.
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +25,7 @@ jobs:
           card: stats
           options: username=tylerlum&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +33,7 @@ jobs:
           card: top-langs
           options: username=tylerlum&layout=compact&langs_count=6&hide=jupyter%20notebook
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit cards
         run: |

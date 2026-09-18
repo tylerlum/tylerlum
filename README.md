@@ -2,13 +2,13 @@
 
 ## Research Interests
 
-* :robot: Robotics Software
-* :red_car: Autonomous Driving
-* :cartwheeling: Complex Motion
+* :robot: Dexterous Manipulation
+* :dart: Reinforcement Learning
+* :globe_with_meridians: Simulation and Sim-to-Real
+* :hammer_and_wrench: Tool Use
+* :eye: Computer Vision
 * :man_health_worker: Medical AI
 * :sailboat: Autonomous Sailing
-* :eye: Computer Vision
-* :speaking_head: Natural Language Processing
 
 ## Hobbies
 
